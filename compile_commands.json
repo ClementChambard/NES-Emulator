@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/App.cpp.o -c /home/clement/dev/nes/src/App.cpp",
+  "file": "/home/clement/dev/nes/src/App.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/Bus.cpp.o -c /home/clement/dev/nes/src/Bus.cpp",
+  "file": "/home/clement/dev/nes/src/Bus.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/Cartridge.cpp.o -c /home/clement/dev/nes/src/Cartridge.cpp",
+  "file": "/home/clement/dev/nes/src/Cartridge.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/Cpu6502.cpp.o -c /home/clement/dev/nes/src/Cpu6502.cpp",
+  "file": "/home/clement/dev/nes/src/Cpu6502.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/Ppu2C02.cpp.o -c /home/clement/dev/nes/src/Ppu2C02.cpp",
+  "file": "/home/clement/dev/nes/src/Ppu2C02.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/graphics/Engine.cpp.o -c /home/clement/dev/nes/src/graphics/Engine.cpp",
+  "file": "/home/clement/dev/nes/src/graphics/Engine.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/graphics/PixelBuffer.cpp.o -c /home/clement/dev/nes/src/graphics/PixelBuffer.cpp",
+  "file": "/home/clement/dev/nes/src/graphics/PixelBuffer.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/graphics/Shader.cpp.o -c /home/clement/dev/nes/src/graphics/Shader.cpp",
+  "file": "/home/clement/dev/nes/src/graphics/Shader.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/graphics/SpriteFont.cpp.o -c /home/clement/dev/nes/src/graphics/SpriteFont.cpp",
+  "file": "/home/clement/dev/nes/src/graphics/SpriteFont.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/graphics/Texture.cpp.o -c /home/clement/dev/nes/src/graphics/Texture.cpp",
+  "file": "/home/clement/dev/nes/src/graphics/Texture.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/graphics/VertexBatch.cpp.o -c /home/clement/dev/nes/src/graphics/VertexBatch.cpp",
+  "file": "/home/clement/dev/nes/src/graphics/VertexBatch.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/main.cpp.o -c /home/clement/dev/nes/src/main.cpp",
+  "file": "/home/clement/dev/nes/src/main.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/mappers/Mapper_000.cpp.o -c /home/clement/dev/nes/src/mappers/Mapper_000.cpp",
+  "file": "/home/clement/dev/nes/src/mappers/Mapper_000.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/mappers/Mapper_001.cpp.o -c /home/clement/dev/nes/src/mappers/Mapper_001.cpp",
+  "file": "/home/clement/dev/nes/src/mappers/Mapper_001.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/mappers/Mapper_002.cpp.o -c /home/clement/dev/nes/src/mappers/Mapper_002.cpp",
+  "file": "/home/clement/dev/nes/src/mappers/Mapper_002.cpp"
+},
+{
+  "directory": "/home/clement/dev/nes",
+  "command": "/usr/bin/c++  -I/home/clement/dev/nes/generated -g -std=gnu++17 -o CMakeFiles/NSNES.dir/src/mappers/Mapper_003.cpp.o -c /home/clement/dev/nes/src/mappers/Mapper_003.cpp",
+  "file": "/home/clement/dev/nes/src/mappers/Mapper_003.cpp"
+}
+]
